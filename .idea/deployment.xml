@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="83_server">
+    <serverData>
+      <paths name="83_server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lst/AlexNet" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Copy of project-level server 'lab_88'">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lst/AlexNet" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
